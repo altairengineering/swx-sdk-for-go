@@ -1,4 +1,4 @@
-module openapi
+module github.com/altairengineering/swx-sdk-for-go
 
 go 1.15
 
